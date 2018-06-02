@@ -6,6 +6,8 @@
 
 ![Image](assets/img/seachicken.jpg)
 
+[@fa[twitter](@oishiseachicken)](https://twitter.com/oishiseachicken)
+
 - TDD3年目
 
 - TDD戦歴
